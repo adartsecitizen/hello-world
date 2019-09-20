@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi People,
+I am new Github that's why I am doing lab exercises.
